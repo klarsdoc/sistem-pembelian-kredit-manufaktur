@@ -14,24 +14,24 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Z.ai Code Scaffold - AI-Powered Development",
-  description: "Modern Next.js scaffold optimized for AI-powered development with Z.ai. Built with TypeScript, Tailwind CSS, and shadcn/ui.",
-  keywords: ["Z.ai", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "AI development", "React"],
-  authors: [{ name: "Z.ai Team" }],
+  title: "Sistem Pembelian Secara Kredit Perusahaan Manufaktur",
+  description: "Web app ini membantu pencatatan kegiatan transaksi sesuai alur pembelian secara kredit dalam perusahaan manufaktur.",
+  keywords: ["Sistem", "Sistem Pembelian", "Sistem Pembelian Kredit", "Perusahaan Manufaktur", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "AI development", "React"],
+  authors: [{ name: "Emily Klarissa" }],
   icons: {
-    icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
+    icon: "https://www.svgrepo.com/show/425974/articles.svg",
   },
   openGraph: {
-    title: "Z.ai Code Scaffold",
-    description: "AI-powered development with modern React stack",
-    url: "https://chat.z.ai",
-    siteName: "Z.ai",
+    title: "Sistem Pembelian Secara Kredit Perusahaan Manufaktur",
+    description: "Web app ini membantu pencatatan kegiatan transaksi sesuai alur pembelian secara kredit dalam perusahaan manufaktur.",
+    url: "https://sistem-pembelian-kredit-manufaktur-by-emily-klarissa.vercel.app/",
+    siteName: "vercel.app",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Z.ai Code Scaffold",
-    description: "AI-powered development with modern React stack",
+    title: "Sistem Pembelian Secara Kredit Perusahaan Manufaktur",
+    description: "Web app ini membantu pencatatan kegiatan transaksi sesuai alur pembelian secara kredit dalam perusahaan manufaktur.",
   },
 };
 
